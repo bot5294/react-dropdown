@@ -27,4 +27,4 @@ step 3) <code>npm start</code>
 
 ## Live link
 
-This project is hosted on :
+This project is hosted on : https://bot5294.github.io/react-dropdown/
